@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="random_names">
+        <item>John</item>
+        <item>Emily</item>
+        <item>Michael</item>
+        <item>Emma</item>
+        <item>David</item>
+        <item>Sophia</item>
+        <item>James</item>
+        <item>Olivia</item>
+        <item>William</item>
+        <item>Ava</item>
+        <item>Benjamin</item>
+        <item>Isabella</item>
+        <item>Joseph</item>
+        <item>Mia</item>
+        <item>Henry</item>
+        <item>Charlotte</item>
+        <item>Samuel</item>
+        <item>Amelia</item>
+        <item>Christopher</item>
+        <item>Abigail</item>
+        <item>Daniel</item>
+        <item>Elizabeth</item>
+        <item>Matthew</item>
+        <item>Sofia</item>
+        <item>Andrew</item>
+        <item>Harper</item>
+        <item>William</item>
+        <item>Grace</item>
+        <item>Aiden</item>
+        <item>Chloe</item>
+        <item>Joshua</item>
+        <item>Ella</item>
+        <item>Ethan</item>
+        <item>Victoria</item>
+        <item>Anthony</item>
+        <item>Natalie</item>
+        <item>James</item>
+        <item>Lily</item>
+        <item>Christopher</item>
+        <item>Lillian</item>
+        <item>Jonathan</item>
+        <item>Zoe</item>
+        <item>Jack</item>
+        <item>Penelope</item>
+    </string-array>
+</resources>
